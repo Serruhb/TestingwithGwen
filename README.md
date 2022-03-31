@@ -1,4 +1,4 @@
-# TestingwithGwen
-Learning how to do github an bash
+# Fartin' and Burpin' with the Homies
+Learning how to do github in git bash
 
-#### Gwen's first push
+## Tutorials for the insane.
